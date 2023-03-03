@@ -3,4 +3,4 @@ My approach and solution for the Datathon organized as part of the 6th Annual Wo
 
 I took part in a two-day datathon organised by the Lawrence Livermore National Laboratory as part of the Stanford University's worldwide annual conference. 
 
-The challenge focused on longer-term weather forecasting to help communities adapt to extreme weather events caused by climate change. The dataset was created in collaboration with (Climate Change AI (CCAI))[https://www.climatechange.ai]. Participants will submit forecasts of temperature and precipitation for one year, competing against the other teams as well as official forecasts from NOAA.
+The challenge focused on longer-term weather forecasting to help communities adapt to extreme weather events caused by climate change. The dataset was created in collaboration with [Climate Change AI (CCAI)](https://www.climatechange.ai). Participants will submit forecasts of temperature and precipitation for one year, competing against the other teams as well as official forecasts from NOAA.
