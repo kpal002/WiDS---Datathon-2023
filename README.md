@@ -9,4 +9,6 @@ The challenge focused on longer-term weather forecasting to help communities ada
 
 - The dataset has a total of 245 features. 
 - **Target:** The arithmetic mean of the max and min observed temperature over the next 14 days for each location and start date, computed as ```(measured max temperature + measured mini temperature) / 2```
+- The training dataset contains two years of data starting from September 1, 2014 to August 31, 2016 (731 days as 2016 is a leap year). The data is collected from a total of 514 different locations across the U.S. So the total number of samples available is 731 * 514 = 375734.
+- The test dataset consists of the last two months November and December 2022 for the same locations. So the total number of samples available in the test dataset is 61 * 514 = 31354.
 
