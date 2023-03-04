@@ -8,5 +8,5 @@ The challenge focused on longer-term weather forecasting to help communities ada
 ## What does EDA reveal?
 
 - The dataset has a total of 245 features. 
-- **Target:** The arithmetic mean of the max and min observed temperature over the next 14 days for each location and start date, computed as (measured max temperature + measured mini temperature) / 2
+- **Target:** The arithmetic mean of the max and min observed temperature over the next 14 days for each location and start date, computed as '''(measured max temperature + measured mini temperature) / 2'''
 
