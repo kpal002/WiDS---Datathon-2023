@@ -12,3 +12,12 @@ The challenge focused on longer-term weather forecasting to help communities ada
 - The training dataset contains two years of data starting from September 1, 2014 to August 31, 2016 (731 days as 2016 is a leap year). The data is collected from a total of 514 different locations across the U.S. So the total number of samples available is 731 * 514 = 375734.
 - The test dataset consists of the last two months November and December 2022 for the same locations. So the total number of samples available in the test dataset is 61 * 514 = 31354.
 
+## Feature Selection
+
+- Latitude and longitude data were grouped together for 514 different locations.
+- 8 features contained nan values which were filled with the mean values.
+- The feature climateregions was the only categorical feature and hence label encoded.
+- From the dates available, three new features were added namely, year, month and day of year.
+- Drop strongly correlated columns with two different thresholds of 0.9 and 0.95. A total of 65 features were dropped.
+- The target distribution for the two years of training data is shown below
+![Unknown](https://user-images.githubusercontent.com/49849134/222946418-bf06a107-fe44-4fab-829b-d512745380d7.png)
