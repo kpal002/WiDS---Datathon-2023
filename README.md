@@ -20,4 +20,4 @@ The challenge focused on longer-term weather forecasting to help communities ada
 - From the dates available, three new features were added namely, year, month and day of year.
 - Drop strongly correlated columns with two different thresholds of 0.9 and 0.95. A total of 65 features were dropped.
 - The target distribution for the two years of training data is shown below
-![Unknown](https://user-images.githubusercontent.com/49849134/222946418-bf06a107-fe44-4fab-829b-d512745380d7.png)
+
