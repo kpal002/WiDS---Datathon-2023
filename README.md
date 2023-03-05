@@ -21,4 +21,4 @@ The challenge focused on longer-term weather forecasting to help communities ada
 - Drop strongly correlated columns with two different thresholds of 0.9 and 0.95. A total of 65 features were dropped.
 - The target distribution for the two years of training data is shown below
 
-<img src="Target.png" width=60% height=50%>
+<img src="Target.png" width=40% height=30%>
