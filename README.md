@@ -20,4 +20,4 @@ The challenge focused on longer-term weather forecasting to help communities ada
 - From the dates available, three new features were added namely, year, month and day of year.
 - Drop strongly correlated columns with two different thresholds of 0.9 and 0.95. A total of 65 features were dropped.
 - The target distribution for the two years of training data is shown below
-
+!(https://github.com/kpal002/WiDS---Datathon-2023/blob/main/Target.png)
