@@ -19,6 +19,6 @@ The challenge focused on longer-term weather forecasting to help communities ada
 - The feature climateregions was the only categorical feature and hence label encoded.
 - From the dates available, three new features were added namely, year, month and day of year.
 - Drop strongly correlated columns with two different thresholds of 0.9 and 0.95. A total of 65 features were dropped.
-- The target distribution for the two years of training data is shown below
+- The target distribution for the two years of training data is shown below.
 
 <img src="Target.png" width=40% height=30%>
