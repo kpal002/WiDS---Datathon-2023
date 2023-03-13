@@ -27,4 +27,4 @@ The challenge focused on longer-term weather forecasting to help communities ada
 
 I used the [PyCaret](https://pycaret.gitbook.io/docs/) AutoML library for model comparisons and hyperparameter tuning. Here are the list of available models.
 
-<img src="Models.png" width=40% height=30%>
+<img src="Models.png" width=60% height=50%>
