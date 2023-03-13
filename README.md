@@ -22,3 +22,7 @@ The challenge focused on longer-term weather forecasting to help communities ada
 - The target distribution for the two years of training data is shown below.
 
 <img src="Target.png" width=40% height=30%>
+
+## Approach to the problem
+
+I used the [PyCaret](https://pycaret.gitbook.io/docs/) AutoML library for model comparisons and hyperparameter tuning. 
