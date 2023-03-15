@@ -29,7 +29,7 @@ I used the [PyCaret](https://pycaret.gitbook.io/docs/) AutoML library for model 
 
 <img src="Models.png" width=70% height=60%>
 
-The three best performing models:
+The three best performing models after finetuning:
 
  Model | Best RMSE score |
 | --- | --- |
